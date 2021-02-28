@@ -9,6 +9,6 @@ Interesting things and thoughts about Ruby
 
 Ruby's comparison to other programming languages that I know
 - quite similar to Python
-- no brackets and almost no semicolons
+- no brackets for loops and almost no semicolons, loops ending with "end"
 - uses "nil" instead of "null"
 - supports single inheritance
