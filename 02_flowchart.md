@@ -1,0 +1,1 @@
+FLOWCHARTS are a graphical explanation and representation of steps in a process. They show steps in a sequential order. Different symbols represents different steps in a process. They also contain a short explanation of a step within each symbol.
