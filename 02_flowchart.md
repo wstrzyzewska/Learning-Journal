@@ -10,3 +10,8 @@ TYPES OF BLOCKS IN FLOWCHART
 - document
 - delay or wait
 - link to another page or flowchart
+
+[Scrambled eggs - flowchart](https://image.slidesharecdn.com/lecture1computingandalgorithms-130525013914-phpapp01/95/lecture-1-computing-and-algorithms-28-638.jpg?cb=1369446011)
+Start and end, five blocks with simple steps, two decision blocks, one with possible repetition and output.
+
+[Peanut butter and jelly sandwich - my flowchart](https://drive.google.com/file/d/1nMteszwPEm-lxKt5V32ceks3jpZ1rli1/view?usp=sharing)
